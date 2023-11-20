@@ -1,7 +1,7 @@
 {
 	"id": "metanthropes-ost",
 	"title": "Metanthropes Original Soundtrack",
-	"version": "0.8.0",
+	"version": "0.8.1",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315",
@@ -20,13 +20,22 @@
 	"authors": [
 		{
 			"name": "qp",
+			"url": "https://www.metanthropes.com/profile/2-qp/",
+			"email": "qp.wormholes@gmail.com",
 			"discord": "qp#8888",
-			"email": "my@email.com",
-			"url": "https://metanthropes.com",
+			"flags": {
+				"github": "legitamine",
+				"patreon": "legitamine"
+			}
+		}
+	],
+	"media": [
+		{
+			"type": "setup",
+			"url": "http://localhost:30000/modules/metanthropes-ost/artwork/cover/cover.jpg",
 			"flags": {}
 		}
 	],
-	"background": "modules/metanthropes-ost/artwork/cover.jpg",
 	"url": "https://github.com/legitamine/metanthropes-ost",
 	"manifest": "https://github.com/legitamine/metanthropes-ost/releases/latest/download/module.json",
 	"license": "https://github.com/legitamine/metanthropes-ost/blob/main/LICENSE.txt",
