@@ -1,0 +1,62 @@
+{
+	"id": "metanthropes-ost",
+	"title": "Metanthropes Original Soundtrack",
+	"version": "0.8.0",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11.315",
+		"maximum": "11"
+	},
+	"relationships": {
+		"systems": [
+			{
+				"id": "metanthropes-system",
+				"type": "system",
+				"compatibility": {}
+			}
+		]
+	},
+	"description": "Metanthropes Original Soundtrack contains a carefuly curated collection of royalty-free music & sound effect tracks, organized in Playlists. All files have been converted to 192kbps .ogg audio format for the best experience when used with Foundry VTT.",
+	"authors": [
+		{
+			"name": "qp",
+			"discord": "qp#8888",
+			"email": "my@email.com",
+			"url": "https://metanthropes.com",
+			"flags": {}
+		}
+	],
+	"background": "modules/metanthropes-ost/artwork/cover.jpg",
+	"url": "https://github.com/legitamine/metanthropes-ost",
+	"manifest": "https://github.com/legitamine/metanthropes-ost/releases/latest/download/module.json",
+	"license": "https://github.com/legitamine/metanthropes-ost/blob/main/LICENSE.txt",
+	"readme": "https://github.com/legitamine/metanthropes-ost/blob/main/readme.md",
+	"changelog": "https://github.com/legitamine/metanthropes-ost/blob/main/changelog.md",
+	"bugs": "https://gitub.com/legitamine/metanthropes-ost/issues",
+	"packs": [
+		{
+			"name": "music",
+			"label": "Music",
+			"path": "packs/music",
+			"type": "Playlist",
+			"ownership": {
+				"PLAYER": "NONE",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "metanthropes-system",
+			"flags": {}
+		},
+		{
+			"name": "sound-effects",
+			"label": "Sound Effects",
+			"path": "packs/sound-effects",
+			"type": "Playlist",
+			"ownership": {
+				"PLAYER": "NONE",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "metanthropes-system",
+			"flags": {}
+		}
+	]
+}
