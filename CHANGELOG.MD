@@ -8,7 +8,7 @@ These are the latest changes to the Metanthropes OST
 
 Based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) format
 
-# Early Access v0.8.2 [2023-12-17]
+# Early Access v0.8.3 [2023-12-17]
 
 ## New Features
 
