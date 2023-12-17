@@ -1,0 +1,74 @@
+{
+  "folder": "kBv07603KKtHk5Kx",
+  "name": "Epic",
+  "_id": "NP1uiqD3brJYkt88",
+  "sounds": [
+    {
+      "name": "Epic Future Inbound",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/epic/Epic-Future-Inbound.ogg",
+      "_id": "VH5lOSaVZ9RAgtyU",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!NP1uiqD3brJYkt88.VH5lOSaVZ9RAgtyU"
+    },
+    {
+      "name": "Riser Cinematic",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/epic/Riser-Cinematic.ogg",
+      "_id": "8ProiG5BD2Y2kic5",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!NP1uiqD3brJYkt88.8ProiG5BD2Y2kic5"
+    },
+    {
+      "name": "Unsung Hero Full Version",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/epic/Unsung-Hero-Full-Version.ogg",
+      "_id": "khAWACwMV0Y7dFKB",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!NP1uiqD3brJYkt88.khAWACwMV0Y7dFKB"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 853,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2d9024e750ebd8c106918ec097d26c95a30704e1"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495598182,
+    "modifiedTime": 1700495608694,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!NP1uiqD3brJYkt88"
+}

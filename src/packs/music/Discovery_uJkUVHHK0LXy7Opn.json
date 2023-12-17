@@ -1,0 +1,87 @@
+{
+  "folder": "tqrxDyYE1QLQc5sx",
+  "name": "Discovery",
+  "_id": "uJkUVHHK0LXy7Opn",
+  "sounds": [
+    {
+      "name": "Neutron Star",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/discovery/Neutron-star.ogg",
+      "_id": "EkKgOlKbKKRwSvEf",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uJkUVHHK0LXy7Opn.EkKgOlKbKKRwSvEf"
+    },
+    {
+      "name": "Promises",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/discovery/Promises.ogg",
+      "_id": "orMb8vCr0iee5Bei",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uJkUVHHK0LXy7Opn.orMb8vCr0iee5Bei"
+    },
+    {
+      "name": "Space Odyssey",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/discovery/Space-Odyssey.ogg",
+      "_id": "v1VstlCddP9jQOi9",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uJkUVHHK0LXy7Opn.v1VstlCddP9jQOi9"
+    },
+    {
+      "name": "The Score Epic Version",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/discovery/The-Score-Epic-Version.ogg",
+      "_id": "fU1vmqCSEOGbCVc0",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uJkUVHHK0LXy7Opn.fU1vmqCSEOGbCVc0"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 253,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "8731b054c375553c10659e117e56850c129ef80d"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494018151,
+    "modifiedTime": 1700494035015,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!uJkUVHHK0LXy7Opn"
+}

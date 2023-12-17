@@ -1,0 +1,113 @@
+{
+  "folder": "tqrxDyYE1QLQc5sx",
+  "name": "Stealth",
+  "_id": "cdZ4EXB65QKYZ1Dz",
+  "sounds": [
+    {
+      "name": "Dark Ambient Suspense Tension",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/stealth/Dark-Ambient-Suspense-Tension.ogg",
+      "_id": "gkICTirBvRHTv3Al",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cdZ4EXB65QKYZ1Dz.gkICTirBvRHTv3Al"
+    },
+    {
+      "name": "Documentary Deep Dive",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/stealth/Documentary-Deep-Dive.ogg",
+      "_id": "KZIGNHdgEy1MlegS",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cdZ4EXB65QKYZ1Dz.KZIGNHdgEy1MlegS"
+    },
+    {
+      "name": "Strange And Epic Retro Synths",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/stealth/Strange-and-epic-retro-synths.ogg",
+      "_id": "H4v6yTXAGWG5ljZ3",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cdZ4EXB65QKYZ1Dz.H4v6yTXAGWG5ljZ3"
+    },
+    {
+      "name": "The Darkest Depths",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/stealth/The-Darkest-Depths.ogg",
+      "_id": "TBRqIJW3PRXDh2h2",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cdZ4EXB65QKYZ1Dz.TBRqIJW3PRXDh2h2"
+    },
+    {
+      "name": "The Void Slow Alien",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/stealth/The-Void-Slow-Alien.ogg",
+      "_id": "EflP14qjk3YHDJJ5",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cdZ4EXB65QKYZ1Dz.EflP14qjk3YHDJJ5"
+    },
+    {
+      "name": "Uncovering The Truth",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/stealth/Uncovering-The-Truth.ogg",
+      "_id": "JcIy9eDlr3rPTTjQ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cdZ4EXB65QKYZ1Dz.JcIy9eDlr3rPTTjQ"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 315,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ea35c8eeb0073d36a17b1e879f9ee65f6c1516c4"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494281096,
+    "modifiedTime": 1700494301287,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!cdZ4EXB65QKYZ1Dz"
+}

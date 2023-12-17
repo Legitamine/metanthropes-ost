@@ -1,0 +1,87 @@
+{
+  "folder": "j1ryQYHhQsIrXF8I",
+  "name": "Debate",
+  "_id": "8dNMf1pxEOETKZey",
+  "sounds": [
+    {
+      "name": "Ambient Trailer",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/debate/Ambient-Trailer.ogg",
+      "_id": "mRhdLUAHZwjr981F",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8dNMf1pxEOETKZey.mRhdLUAHZwjr981F"
+    },
+    {
+      "name": "Ancient Mysteries",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/debate/Ancient-Mysteries.ogg",
+      "_id": "JTLChg0e8g4Q7qIT",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8dNMf1pxEOETKZey.JTLChg0e8g4Q7qIT"
+    },
+    {
+      "name": "Exploring The Possibility",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/debate/Exploring-The-Possibility.ogg",
+      "_id": "n80YowqpYZsvpemJ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8dNMf1pxEOETKZey.n80YowqpYZsvpemJ"
+    },
+    {
+      "name": "Spiritual Guidance (no Drums)",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/debate/Spiritual-Guidance-(no-drums).ogg",
+      "_id": "u74ig1dUx32NLGRm",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8dNMf1pxEOETKZey.u74ig1dUx32NLGRm"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 585,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "26844e16679c6b90d97898683186f014fe0135aa"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495836686,
+    "modifiedTime": 1700495848818,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!8dNMf1pxEOETKZey"
+}

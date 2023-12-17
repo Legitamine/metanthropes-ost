@@ -1,0 +1,165 @@
+{
+  "folder": "kBv07603KKtHk5Kx",
+  "name": "Buildup",
+  "_id": "UIqANzqWvuEINFgC",
+  "sounds": [
+    {
+      "name": "A Great Fire",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/A-Great-Fire.ogg",
+      "_id": "7F1FboASRvaLe4gT",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.7F1FboASRvaLe4gT"
+    },
+    {
+      "name": "Dissidents",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/Dissidents.ogg",
+      "_id": "Yq0YAKz85uX6XyMG",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.Yq0YAKz85uX6XyMG"
+    },
+    {
+      "name": "Epic Dramatic Ambient Trailer",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/Epic-Dramatic-Ambient-Trailer.ogg",
+      "_id": "Wfrxh70e9DihQX5w",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.Wfrxh70e9DihQX5w"
+    },
+    {
+      "name": "Fortitude No Drums Version",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/Fortitude-No-Drums-Version.ogg",
+      "_id": "ECcmOnDRMVoomFR5",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.ECcmOnDRMVoomFR5"
+    },
+    {
+      "name": "Its Like A Dystopian Cyberpunk Vigilante On A Motorcycle",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/Its-Like-a-Dystopian-Cyberpunk-Vigilante-on-a-Motorcycle.ogg",
+      "_id": "6MFfbRFtIJnNRlZ7",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.6MFfbRFtIJnNRlZ7"
+    },
+    {
+      "name": "Monsters",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/Monsters.ogg",
+      "_id": "YVF08OQLjCHCSpcx",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.YVF08OQLjCHCSpcx"
+    },
+    {
+      "name": "Special",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/Special.ogg",
+      "_id": "rPvc9eFSR4TLI8vh",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.rPvc9eFSR4TLI8vh"
+    },
+    {
+      "name": "The Art Of Loneliness",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/The-Art-Of-Loneliness.ogg",
+      "_id": "1Ujz23pSgdU9Bl5n",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.1Ujz23pSgdU9Bl5n"
+    },
+    {
+      "name": "The Last Survivor",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/The-Last-Survivor.ogg",
+      "_id": "TLmFGE4T6Z0uZPTu",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.TLmFGE4T6Z0uZPTu"
+    },
+    {
+      "name": "They're Coming",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/buildup/They%27re-Coming.ogg",
+      "_id": "YepQy0IUKFE634ZJ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!UIqANzqWvuEINFgC.YepQy0IUKFE634ZJ"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 371,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c02127747d97bbb017ff39217d882fc2b4d17c4f"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495423351,
+    "modifiedTime": 1700495435573,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!UIqANzqWvuEINFgC"
+}

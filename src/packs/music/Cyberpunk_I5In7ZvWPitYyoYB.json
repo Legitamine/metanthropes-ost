@@ -1,0 +1,126 @@
+{
+  "folder": "tqrxDyYE1QLQc5sx",
+  "name": "Cyberpunk",
+  "_id": "I5In7ZvWPitYyoYB",
+  "sounds": [
+    {
+      "name": "Cellular Disruption",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/cyberpunk/Cellular-Disruption.ogg",
+      "_id": "fAAn0yYAOUsGk9Wx",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!I5In7ZvWPitYyoYB.fAAn0yYAOUsGk9Wx"
+    },
+    {
+      "name": "Destroyer Of Worlds Instrumental Version",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/cyberpunk/Destroyer-Of-Worlds-Instrumental-Version.ogg",
+      "_id": "ErnSi7layvZUajk4",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!I5In7ZvWPitYyoYB.ErnSi7layvZUajk4"
+    },
+    {
+      "name": "Finish Him Instrumental Version",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/cyberpunk/Finish-Him-Instrumental-Version.ogg",
+      "_id": "IwHm1HCZTu5E3CYb",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!I5In7ZvWPitYyoYB.IwHm1HCZTu5E3CYb"
+    },
+    {
+      "name": "Night Vision Instrumental Version",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/cyberpunk/Night-Vision-Instrumental-Version.ogg",
+      "_id": "gxIzTnfC9bRX3Ox5",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!I5In7ZvWPitYyoYB.gxIzTnfC9bRX3Ox5"
+    },
+    {
+      "name": "Total Occlusion",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/cyberpunk/Total-Occlusion.ogg",
+      "_id": "6EPNF9ENDffj848g",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!I5In7ZvWPitYyoYB.6EPNF9ENDffj848g"
+    },
+    {
+      "name": "Ultraviolence",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/cyberpunk/Ultraviolence.ogg",
+      "_id": "hXoCwEJYcaVCHxXg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!I5In7ZvWPitYyoYB.hXoCwEJYcaVCHxXg"
+    },
+    {
+      "name": "Vantablack Mmlx Instrumental",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/cyberpunk/Vantablack-MMLX-Instrumental.ogg",
+      "_id": "yid1kMPCJ2mrXBAc",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!I5In7ZvWPitYyoYB.yid1kMPCJ2mrXBAc"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 434,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "bb25b37e3c8ce86584777d01f0a7f3e28a7b081b"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700493896346,
+    "modifiedTime": 1700493921880,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!I5In7ZvWPitYyoYB"
+}

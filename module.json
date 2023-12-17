@@ -1,7 +1,7 @@
 {
 	"id": "metanthropes-ost",
 	"title": "Metanthropes Original Soundtrack",
-	"version": "0.8.1",
+	"version": "0.8.2",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315",
@@ -16,7 +16,7 @@
 			}
 		]
 	},
-	"description": "Metanthropes Original Soundtrack contains a carefuly curated collection of royalty-free music & sound effect tracks, organized in Playlists. All files have been converted to 192kbps .ogg audio format for the best experience when used with Foundry VTT.",
+	"description": "Metanthropes Original Soundtrack contains a carefuly curated collection of royalty-free music &amp; sound effect tracks, organized in Playlists. All files have been converted to 192kbps .ogg audio format for the best experience when used with Foundry VTT.",
 	"authors": [
 		{
 			"name": "qp",
@@ -33,7 +33,8 @@
 		{
 			"type": "setup",
 			"url": "http://localhost:30000/modules/metanthropes-ost/artwork/cover/cover.jpg",
-			"flags": {}
+			"flags": {},
+			"loop": false
 		}
 	],
 	"url": "https://github.com/legitamine/metanthropes-ost",
@@ -67,5 +68,6 @@
 			"system": "metanthropes-system",
 			"flags": {}
 		}
-	]
+	],
+	"download": "https://github.com/Legitamine/metanthropes-ost/releases/download/0.8.1/metanthropes-ost.zip"
 }

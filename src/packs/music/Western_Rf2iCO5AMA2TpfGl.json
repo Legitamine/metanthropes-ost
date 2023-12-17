@@ -1,0 +1,74 @@
+{
+  "folder": "kBv07603KKtHk5Kx",
+  "name": "Western",
+  "_id": "Rf2iCO5AMA2TpfGl",
+  "sounds": [
+    {
+      "name": "Old Frontiers",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/western/Old-Frontiers.ogg",
+      "_id": "CTLZBmh2z3WLp8a8",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Rf2iCO5AMA2TpfGl.CTLZBmh2z3WLp8a8"
+    },
+    {
+      "name": "The Showdown",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/western/The-Showdown.ogg",
+      "_id": "uZuwlDbMpDJc9KBo",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Rf2iCO5AMA2TpfGl.uZuwlDbMpDJc9KBo"
+    },
+    {
+      "name": "Western Duel",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/western/Western-Duel.ogg",
+      "_id": "LB8cJ7rG5dqKQznJ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Rf2iCO5AMA2TpfGl.LB8cJ7rG5dqKQznJ"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 27,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2306a7c6d8d9220c909af2fbe957bd244489c926"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495640102,
+    "modifiedTime": 1700495652948,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!Rf2iCO5AMA2TpfGl"
+}

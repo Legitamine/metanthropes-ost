@@ -1,0 +1,243 @@
+{
+  "folder": "j1ryQYHhQsIrXF8I",
+  "name": "Inspirational",
+  "_id": "M9G9hKGAdvvevkj5",
+  "sounds": [
+    {
+      "name": "Back To Nature",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Back-To-Nature.ogg",
+      "_id": "kvMe2BHTEw9cXS0J",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.kvMe2BHTEw9cXS0J"
+    },
+    {
+      "name": "Breath Eyes Memory Meditation (no Vocals)",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Breath-Eyes-Memory-Meditation-(No-Vocals).ogg",
+      "_id": "KHx1v7t00VuwrN5y",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.KHx1v7t00VuwrN5y"
+    },
+    {
+      "name": "Cinematic Beautiful Lush Real Estate Love",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Cinematic-Beautiful-Lush-Real-Estate-Love.ogg",
+      "_id": "xUfMDXCmdgpyQ6Ve",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.xUfMDXCmdgpyQ6Ve"
+    },
+    {
+      "name": "Drifting Home",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Drifting-Home.ogg",
+      "_id": "G7swaeIn1Q7uuCva",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.G7swaeIn1Q7uuCva"
+    },
+    {
+      "name": "Final Speech",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Final-Speech.ogg",
+      "_id": "c1kpWt6tQ3gILEe2",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.c1kpWt6tQ3gILEe2"
+    },
+    {
+      "name": "Flight Over The Mountain",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Flight-Over-The-Mountain.ogg",
+      "_id": "yUBW7fHCPWAtPpwS",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.yUBW7fHCPWAtPpwS"
+    },
+    {
+      "name": "Hope Is Here Instrumental Version",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Hope-Is-Here-Instrumental-Version.ogg",
+      "_id": "oTrnsVIi2jgcUoP4",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.oTrnsVIi2jgcUoP4"
+    },
+    {
+      "name": "People",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/People.ogg",
+      "_id": "2HCYzApM5DsmwzIl",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.2HCYzApM5DsmwzIl"
+    },
+    {
+      "name": "Prism Light",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Prism-Light.ogg",
+      "_id": "zZRzPFwg9ASG31L8",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.zZRzPFwg9ASG31L8"
+    },
+    {
+      "name": "Reality Check",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Reality-Check.ogg",
+      "_id": "i9tigJP4x6Lzovuf",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.i9tigJP4x6Lzovuf"
+    },
+    {
+      "name": "Reflections",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Reflections.ogg",
+      "_id": "SH4MswMwIdhGbNci",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.SH4MswMwIdhGbNci"
+    },
+    {
+      "name": "Riders",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Riders.ogg",
+      "_id": "W6954QGrsbeGtNV7",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.W6954QGrsbeGtNV7"
+    },
+    {
+      "name": "Singularity",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Singularity.ogg",
+      "_id": "gN7LrW4N00rrvhvN",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.gN7LrW4N00rrvhvN"
+    },
+    {
+      "name": "Spare Change",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Spare-Change.ogg",
+      "_id": "LnXyn7UdP1PF4fqJ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.LnXyn7UdP1PF4fqJ"
+    },
+    {
+      "name": "Until",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Until.ogg",
+      "_id": "N8aJDbqUFXVMXbIx",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.N8aJDbqUFXVMXbIx"
+    },
+    {
+      "name": "Waves Of The Ocean",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/inspirational/Waves-of-the-Ocean.ogg",
+      "_id": "M8BSDjWMp6bI6XZK",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!M9G9hKGAdvvevkj5.M8BSDjWMp6bI6XZK"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 728,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "67ffd60f37fc40b2a258395a9e1f732b496c6425"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495919605,
+    "modifiedTime": 1700495949152,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!M9G9hKGAdvvevkj5"
+}

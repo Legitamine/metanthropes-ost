@@ -1,0 +1,126 @@
+{
+  "folder": "lSyfnuFQH050mYL2",
+  "name": "Tension",
+  "_id": "sVD2ZHbeSdSyMXOg",
+  "sounds": [
+    {
+      "name": "Apocalypse",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/tension/Apocalypse.ogg",
+      "_id": "X7g6D3xtq2PI0Xj0",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!sVD2ZHbeSdSyMXOg.X7g6D3xtq2PI0Xj0"
+    },
+    {
+      "name": "Approaching The Space Station",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/tension/Approaching-The-Space-Station.ogg",
+      "_id": "TNsCJZvtIn8joIx9",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!sVD2ZHbeSdSyMXOg.TNsCJZvtIn8joIx9"
+    },
+    {
+      "name": "Danger Is Near",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/tension/Danger-Is-Near.ogg",
+      "_id": "fNopLJ84tkvBAswt",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!sVD2ZHbeSdSyMXOg.fNopLJ84tkvBAswt"
+    },
+    {
+      "name": "Deadly Ambush",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/tension/Deadly-Ambush.ogg",
+      "_id": "f4kWwLjfDifacqU5",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!sVD2ZHbeSdSyMXOg.f4kWwLjfDifacqU5"
+    },
+    {
+      "name": "Evil Never Rests",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/tension/Evil-Never-Rests.ogg",
+      "_id": "7K4bTL99dKhJaCTq",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!sVD2ZHbeSdSyMXOg.7K4bTL99dKhJaCTq"
+    },
+    {
+      "name": "Memory And Forgetting",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/tension/Memory-and-Forgetting.ogg",
+      "_id": "ZvCu81PMxScHkjiY",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!sVD2ZHbeSdSyMXOg.ZvCu81PMxScHkjiY"
+    },
+    {
+      "name": "Tension Theme",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/tension/Tension-Theme.ogg",
+      "_id": "6oV00rkuC9otVF4q",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!sVD2ZHbeSdSyMXOg.6oV00rkuC9otVF4q"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 48,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cbcb041d22f077f85b08a851f4f200e128b82a3e"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495252537,
+    "modifiedTime": 1700495266338,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!sVD2ZHbeSdSyMXOg"
+}

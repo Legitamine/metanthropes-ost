@@ -1,0 +1,191 @@
+{
+  "name": "Cosmic & SciFi",
+  "_id": "XmG5eVj4iCOqlrAJ",
+  "sounds": [
+    {
+      "name": "Alien Growl",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Alien-Growl.ogg",
+      "_id": "sbEjx0iDDbxVenRj",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.sbEjx0iDDbxVenRj"
+    },
+    {
+      "name": "Cosmic Missile Whoosh",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Cosmic-Missile-Whoosh.ogg",
+      "_id": "tjgPp2hIIBt72PSd",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.tjgPp2hIIBt72PSd"
+    },
+    {
+      "name": "Dark Background Metallic Transition",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Dark-Background-Metallic-Transition.ogg",
+      "_id": "jocWTpLeaMebiwdG",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.jocWTpLeaMebiwdG"
+    },
+    {
+      "name": "Dark Passing Scary Transition 3",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Dark-Passing-Scary-Transition-3.ogg",
+      "_id": "ZSyzXqwk8tIcGbyk",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.ZSyzXqwk8tIcGbyk"
+    },
+    {
+      "name": "Extraterrestrial Wind Whoosh 2",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Extraterrestrial-Wind-Whoosh-2.ogg",
+      "_id": "ZmBP533tRGf7eUMY",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.ZmBP533tRGf7eUMY"
+    },
+    {
+      "name": "Extraterrestrial Wind Whoosh",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Extraterrestrial-Wind-Whoosh.ogg",
+      "_id": "6CrW1x3zC6HUcyDB",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.6CrW1x3zC6HUcyDB"
+    },
+    {
+      "name": "Fast Vibration Whoosh Swoosh",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Fast-Vibration-Whoosh-Swoosh.ogg",
+      "_id": "3n5qr9GyHw2qawOk",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.3n5qr9GyHw2qawOk"
+    },
+    {
+      "name": "Hud Beeping Scanning Searching 3",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/HUD-Beeping-Scanning-Searching-3.ogg",
+      "_id": "YEVsZwfpWMFAmrMx",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.YEVsZwfpWMFAmrMx"
+    },
+    {
+      "name": "Outer Space Ambience",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Outer-Space-Ambience.ogg",
+      "_id": "Z3L5VA0EJ0jtSlbu",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.Z3L5VA0EJ0jtSlbu"
+    },
+    {
+      "name": "Radar",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Radar.ogg",
+      "_id": "Jujo0hc8KVC6a4qW",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.Jujo0hc8KVC6a4qW"
+    },
+    {
+      "name": "Scifi Cybernetic Device Working 4",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Scifi-Cybernetic-Device-Working-4.ogg",
+      "_id": "LnDwjzaOLAbHk8MI",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.LnDwjzaOLAbHk8MI"
+    },
+    {
+      "name": "Spaceship Sonar 4",
+      "path": "modules/metanthropes-ost/audio/sfx/cosmic-scifi/Spaceship-Sonar-4.ogg",
+      "_id": "GZStaJSznRvN4Jtf",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!XmG5eVj4iCOqlrAJ.GZStaJSznRvN4Jtf"
+    }
+  ],
+  "mode": -1,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 469,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ff38ef50207bfe05b91142753a5b44269bfd5830"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700496467570,
+    "modifiedTime": 1700496562547,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!XmG5eVj4iCOqlrAJ"
+}

@@ -1,0 +1,178 @@
+{
+  "folder": "kBv07603KKtHk5Kx",
+  "name": "Cutscenes",
+  "_id": "JMwuvEcsAeVLOs2k",
+  "sounds": [
+    {
+      "name": "Almost At Eden",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Almost-At-Eden.ogg",
+      "_id": "Fmz5jyuRa8YtaovY",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.Fmz5jyuRa8YtaovY"
+    },
+    {
+      "name": "Denial Of Service",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Denial-Of-Service.ogg",
+      "_id": "97dyw51soHAe7Ka9",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.97dyw51soHAe7Ka9"
+    },
+    {
+      "name": "Down To The Wire",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Down-To-The-Wire.ogg",
+      "_id": "tQ7ZjoCHRNt1ddLK",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.tQ7ZjoCHRNt1ddLK"
+    },
+    {
+      "name": "In This Together (no Drums No Guitar)",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/In-This-Together-(No-Drums_No-Guitar).ogg",
+      "_id": "l0lNbji4J7pVR1uQ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.l0lNbji4J7pVR1uQ"
+    },
+    {
+      "name": "Kingdom Of Heaven",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Kingdom-Of-Heaven.ogg",
+      "_id": "Q9fFxUpvfoqmpPXi",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.Q9fFxUpvfoqmpPXi"
+    },
+    {
+      "name": "Murder Mystery Dark Drama",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Murder-Mystery-Dark-Drama.ogg",
+      "_id": "s7G09b3iyklJnuLQ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.s7G09b3iyklJnuLQ"
+    },
+    {
+      "name": "Murky Swamp",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Murky-Swamp.ogg",
+      "_id": "uTjmDRJuiJ729T9c",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.uTjmDRJuiJ729T9c"
+    },
+    {
+      "name": "Ronroco Cinematic Journey",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Ronroco-Cinematic-Journey.ogg",
+      "_id": "25vxP8RumH3D5sCA",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.25vxP8RumH3D5sCA"
+    },
+    {
+      "name": "Trembling Sky",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Trembling-Sky.ogg",
+      "_id": "wGD4lZAyZ4SFPFDd",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.wGD4lZAyZ4SFPFDd"
+    },
+    {
+      "name": "Under The Waves",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/Under-The-Waves.ogg",
+      "_id": "pBG97KDsTH8IoXGp",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.pBG97KDsTH8IoXGp"
+    },
+    {
+      "name": "War To Peace",
+      "path": "modules/metanthropes-ost/audio/music/cinematics-cutscenes/cutscenes/War-to-Peace.ogg",
+      "_id": "bfTQGHAITMlr31FQ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!JMwuvEcsAeVLOs2k.bfTQGHAITMlr31FQ"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 267,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "8491cd0bc801e74dbb2f5f3d9f48b3e1717e4ff5"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495525095,
+    "modifiedTime": 1700495539653,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!JMwuvEcsAeVLOs2k"
+}

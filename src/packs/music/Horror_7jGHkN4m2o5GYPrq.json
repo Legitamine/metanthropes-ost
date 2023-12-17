@@ -1,0 +1,100 @@
+{
+  "folder": "lSyfnuFQH050mYL2",
+  "name": "Horror",
+  "_id": "7jGHkN4m2o5GYPrq",
+  "sounds": [
+    {
+      "name": "Ghosts Of Wrath",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/horror/Ghosts-Of-Wrath.ogg",
+      "_id": "HmovyMZkt8qUTl7u",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7jGHkN4m2o5GYPrq.HmovyMZkt8qUTl7u"
+    },
+    {
+      "name": "Going Crazy",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/horror/Going-Crazy.ogg",
+      "_id": "xtZ1GQ1fDj3PQ6uX",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7jGHkN4m2o5GYPrq.xtZ1GQ1fDj3PQ6uX"
+    },
+    {
+      "name": "Haunted Submarine",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/horror/Haunted-Submarine.ogg",
+      "_id": "OJDm8kTvliclVGsK",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7jGHkN4m2o5GYPrq.OJDm8kTvliclVGsK"
+    },
+    {
+      "name": "Lux",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/horror/Lux.ogg",
+      "_id": "Rj7YxeJUbaYjrBaH",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7jGHkN4m2o5GYPrq.Rj7YxeJUbaYjrBaH"
+    },
+    {
+      "name": "Terrorform",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/horror/Terrorform.ogg",
+      "_id": "yjSXzGtIOGX4F17P",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7jGHkN4m2o5GYPrq.yjSXzGtIOGX4F17P"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 520,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cb696dc9595c3157f264b357668579748c8ed7eb"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494744523,
+    "modifiedTime": 1700494758985,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!7jGHkN4m2o5GYPrq"
+}

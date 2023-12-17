@@ -1,0 +1,87 @@
+{
+  "folder": "tqrxDyYE1QLQc5sx",
+  "name": "Exploration",
+  "_id": "2vuIM5fgJlQbiVWP",
+  "sounds": [
+    {
+      "name": "Chilling Secrets",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/exploration/Chilling-Secrets.ogg",
+      "_id": "6cRP9n28Md7NyxlL",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2vuIM5fgJlQbiVWP.6cRP9n28Md7NyxlL"
+    },
+    {
+      "name": "Contemplating Victory",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/exploration/Contemplating-Victory.ogg",
+      "_id": "D4H3iZhZxLd7XkXy",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2vuIM5fgJlQbiVWP.D4H3iZhZxLd7XkXy"
+    },
+    {
+      "name": "Evil Empires Merge Dark Fantasy Background",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/exploration/Evil-Empires-Merge-Dark-Fantasy-Background.ogg",
+      "_id": "t6884Z4fHpLJGCTg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2vuIM5fgJlQbiVWP.t6884Z4fHpLJGCTg"
+    },
+    {
+      "name": "The Severance Dark Drama",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/exploration/The-Severance-Dark-Drama.ogg",
+      "_id": "xXOVNK5nL9EwdESc",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2vuIM5fgJlQbiVWP.xXOVNK5nL9EwdESc"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 389,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a2ad08f1318e0e3e8c60dc085d4e946309203fc2"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494134876,
+    "modifiedTime": 1700494154219,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!2vuIM5fgJlQbiVWP"
+}
