@@ -1,3 +1,6 @@
+![image](https://content.invisioncic.com/e290497/monthly_2022_12/01.jpg.10f501a62b5254cef6f04d9f87c8b52d.jpg)
+![Foundry v11](https://img.shields.io/badge/foundry-v11-green)
+
 # Metanthropes Original Soundtrack 
 
 ### A Foundry VTT Module for Metanthropes Roleplaying Game

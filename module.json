@@ -1,11 +1,10 @@
 {
 	"id": "metanthropes-ost",
 	"title": "Metanthropes Original Soundtrack",
-	"version": "0.8.2",
+	"version": "0.8.3",
 	"compatibility": {
 		"minimum": "11",
-		"verified": "11.315",
-		"maximum": "11"
+		"verified": "11.315"
 	},
 	"relationships": {
 		"systems": [
