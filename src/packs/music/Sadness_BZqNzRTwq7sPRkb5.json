@@ -1,0 +1,126 @@
+{
+  "folder": "lSyfnuFQH050mYL2",
+  "name": "Sadness",
+  "_id": "BZqNzRTwq7sPRkb5",
+  "sounds": [
+    {
+      "name": "Agnus Dei",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/sadness/Agnus-Dei.ogg",
+      "_id": "hI7LUl2fmIzJWfCg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!BZqNzRTwq7sPRkb5.hI7LUl2fmIzJWfCg"
+    },
+    {
+      "name": "Broken",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/sadness/Broken.ogg",
+      "_id": "KH8Q1RGF596beGeE",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!BZqNzRTwq7sPRkb5.KH8Q1RGF596beGeE"
+    },
+    {
+      "name": "Difficult Decisions",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/sadness/Difficult-Decisions.ogg",
+      "_id": "52KPXWxUnPJvSKAX",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!BZqNzRTwq7sPRkb5.52KPXWxUnPJvSKAX"
+    },
+    {
+      "name": "Electra To The Baltic Sea (solo Voice)",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/sadness/Electra-to-the-Baltic-Sea-(Solo-Voice).ogg",
+      "_id": "hDGuf4bmyvG9Wkpt",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!BZqNzRTwq7sPRkb5.hDGuf4bmyvG9Wkpt"
+    },
+    {
+      "name": "Flare Star",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/sadness/Flare-Star.ogg",
+      "_id": "sX6AZmzTO6Wpi3Iw",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!BZqNzRTwq7sPRkb5.sX6AZmzTO6Wpi3Iw"
+    },
+    {
+      "name": "Light Sky Motions",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/sadness/Light-Sky-Motions.ogg",
+      "_id": "8AtwyGuLycVPLOmP",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!BZqNzRTwq7sPRkb5.8AtwyGuLycVPLOmP"
+    },
+    {
+      "name": "Prana's Talisman",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/sadness/Prana%27s-Talisman.ogg",
+      "_id": "ev4Bq4gaiQOUu0CL",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!BZqNzRTwq7sPRkb5.ev4Bq4gaiQOUu0CL"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 382,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "73b11f5b126c13f551bc1f4dd1144d3ca0fe17af"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495101464,
+    "modifiedTime": 1700495124979,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!BZqNzRTwq7sPRkb5"
+}

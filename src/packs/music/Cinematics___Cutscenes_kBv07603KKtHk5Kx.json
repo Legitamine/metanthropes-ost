@@ -1,0 +1,26 @@
+{
+  "name": "Cinematics & Cutscenes",
+  "sorting": "a",
+  "folder": null,
+  "type": "Playlist",
+  "_id": "kBv07603KKtHk5Kx",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "df-qol": {
+      "colour": ""
+    },
+    "scene-packer": {
+      "hash": "e2c3b32054782c43861ba8a34919b07521c5373b"
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495306605,
+    "modifiedTime": 1700495306605,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "_key": "!folders!kBv07603KKtHk5Kx"
+}

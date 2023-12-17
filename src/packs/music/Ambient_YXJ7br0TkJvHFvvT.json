@@ -1,0 +1,152 @@
+{
+  "folder": "j1ryQYHhQsIrXF8I",
+  "name": "Ambient",
+  "_id": "YXJ7br0TkJvHFvvT",
+  "sounds": [
+    {
+      "name": "Ambient Illumination",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Ambient-Illumination.ogg",
+      "_id": "5coyqu4kqv3IDbH0",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.5coyqu4kqv3IDbH0"
+    },
+    {
+      "name": "Aries",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Aries.ogg",
+      "_id": "bqmOXoxWW3qZ0sNC",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.bqmOXoxWW3qZ0sNC"
+    },
+    {
+      "name": "Beautiful Spa Music",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Beautiful-Spa-Music.ogg",
+      "_id": "Ym4dzduoKUklHcEU",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.Ym4dzduoKUklHcEU"
+    },
+    {
+      "name": "Birds",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Birds.ogg",
+      "_id": "XNdPxPNrtRMMI4bG",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.XNdPxPNrtRMMI4bG"
+    },
+    {
+      "name": "Breath Eyes Memory Meditation",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Breath-Eyes-Memory-Meditation.ogg",
+      "_id": "TzUQ6ZdkxYIFWpXp",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.TzUQ6ZdkxYIFWpXp"
+    },
+    {
+      "name": "Intrastellar",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Intrastellar.ogg",
+      "_id": "eK16CFZhRkI5XSh1",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.eK16CFZhRkI5XSh1"
+    },
+    {
+      "name": "Lilly",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Lilly.ogg",
+      "_id": "71ud9G9S9O02KkW4",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.71ud9G9S9O02KkW4"
+    },
+    {
+      "name": "Rain Meditation",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Rain-Meditation.ogg",
+      "_id": "E1GhRNh6JrLa9lVc",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.E1GhRNh6JrLa9lVc"
+    },
+    {
+      "name": "Restorative Yoga Meditation",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/ambient/Restorative-Yoga-Meditation.ogg",
+      "_id": "jQ6uBgUo7m3uJzCj",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!YXJ7br0TkJvHFvvT.jQ6uBgUo7m3uJzCj"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 64,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4a7b53c7d2a758b0d9c9f89b69ae2bfb23f89fec"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495699419,
+    "modifiedTime": 1700495792317,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!YXJ7br0TkJvHFvvT"
+}

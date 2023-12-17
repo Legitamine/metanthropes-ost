@@ -1,0 +1,87 @@
+{
+  "folder": "lSyfnuFQH050mYL2",
+  "name": "Comedy",
+  "_id": "3vFOrbKgoTIRNlw6",
+  "sounds": [
+    {
+      "name": "Funny Days",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/comedy/Funny-Days.ogg",
+      "_id": "YIbVhbjs5jg9xXQu",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!3vFOrbKgoTIRNlw6.YIbVhbjs5jg9xXQu"
+    },
+    {
+      "name": "Humorous Show Funny Trip",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/comedy/Humorous-Show-Funny-Trip.ogg",
+      "_id": "PEZzNjtsqZZ692NL",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!3vFOrbKgoTIRNlw6.PEZzNjtsqZZ692NL"
+    },
+    {
+      "name": "Polka Polka Turn Around",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/comedy/Polka-Polka-Turn-Around.ogg",
+      "_id": "ob0MTagDrpHutYZU",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!3vFOrbKgoTIRNlw6.ob0MTagDrpHutYZU"
+    },
+    {
+      "name": "Shadows At The Night",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/comedy/Shadows-At-The-Night.ogg",
+      "_id": "3KbFif2nNLlRyQSK",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!3vFOrbKgoTIRNlw6.3KbFif2nNLlRyQSK"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 637,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2b0e7c5e4058bf3cfc753ba31775d47e7f031159"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494679420,
+    "modifiedTime": 1700494702424,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!3vFOrbKgoTIRNlw6"
+}

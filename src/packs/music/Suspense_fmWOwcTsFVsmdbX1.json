@@ -1,0 +1,113 @@
+{
+  "folder": "tqrxDyYE1QLQc5sx",
+  "name": "Suspense",
+  "_id": "fmWOwcTsFVsmdbX1",
+  "sounds": [
+    {
+      "name": "Cold Steel Daggers",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/suspense/Cold-Steel-Daggers.ogg",
+      "_id": "DDNQgOMNfqEF2LWM",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!fmWOwcTsFVsmdbX1.DDNQgOMNfqEF2LWM"
+    },
+    {
+      "name": "Eerie Presence",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/suspense/Eerie-Presence.ogg",
+      "_id": "MDaxFGQnnn7ifim7",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!fmWOwcTsFVsmdbX1.MDaxFGQnnn7ifim7"
+    },
+    {
+      "name": "Rhythm Of The Action",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/suspense/Rhythm-Of-The-Action.ogg",
+      "_id": "nPQGfL2WvsnQfyqo",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!fmWOwcTsFVsmdbX1.nPQGfL2WvsnQfyqo"
+    },
+    {
+      "name": "Rise To The Challenge",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/suspense/Rise-To-The-Challenge.ogg",
+      "_id": "jMtF0PUnlVnOHYLB",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!fmWOwcTsFVsmdbX1.jMtF0PUnlVnOHYLB"
+    },
+    {
+      "name": "The Drama Unfolds",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/suspense/The-Drama-Unfolds-.ogg",
+      "_id": "dn6z6uF9mqRrQahP",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!fmWOwcTsFVsmdbX1.dn6z6uF9mqRrQahP"
+    },
+    {
+      "name": "To Catch A Killer",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/suspense/To-Catch-A-Killer.ogg",
+      "_id": "GkFp8FacO7FOOclS",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!fmWOwcTsFVsmdbX1.GkFp8FacO7FOOclS"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 982,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "27aae052eeacb5cb94e5c7b7cb704240251afbd1"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494396976,
+    "modifiedTime": 1700494422372,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!fmWOwcTsFVsmdbX1"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Roleplay & Chill",
+  "sorting": "a",
+  "folder": null,
+  "type": "Playlist",
+  "_id": "j1ryQYHhQsIrXF8I",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "df-qol": {
+      "colour": ""
+    },
+    "scene-packer": {
+      "hash": "c151a44884df51d8a901a40e23e611238d991c49"
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700495689211,
+    "modifiedTime": 1700495689211,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "_key": "!folders!j1ryQYHhQsIrXF8I"
+}

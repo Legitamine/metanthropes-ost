@@ -1,0 +1,165 @@
+{
+  "folder": "tqrxDyYE1QLQc5sx",
+  "name": "Combat",
+  "_id": "jl7f8v7rPnQWnX2J",
+  "sounds": [
+    {
+      "name": "End Of Days",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/End-of-Days.ogg",
+      "_id": "gUVZloAbZg6qiZTv",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.gUVZloAbZg6qiZTv"
+    },
+    {
+      "name": "Eternal Exodus",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/Eternal-Exodus.ogg",
+      "_id": "o3kRfgl3OtdPcWzT",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.o3kRfgl3OtdPcWzT"
+    },
+    {
+      "name": "Hope For Home",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/Hope-For-Home.ogg",
+      "_id": "t9YvY7ikMXZIFzsQ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.t9YvY7ikMXZIFzsQ"
+    },
+    {
+      "name": "Mind's Eye",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/Mind%27s-Eye.ogg",
+      "_id": "wenw0iucc6lOWx4M",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.wenw0iucc6lOWx4M"
+    },
+    {
+      "name": "Missionary",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/Missionary.ogg",
+      "_id": "z2OI7YJba3AhEgNQ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.z2OI7YJba3AhEgNQ"
+    },
+    {
+      "name": "Overflowing With Motivation (no Vocals)",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/Overflowing-With-Motivation-(No-Vocals).ogg",
+      "_id": "hBqvZd8g4b8QoiPy",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.hBqvZd8g4b8QoiPy"
+    },
+    {
+      "name": "Powerbomb",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/Powerbomb.ogg",
+      "_id": "oiI4IzmOXbFPjFA1",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.oiI4IzmOXbFPjFA1"
+    },
+    {
+      "name": "The Cruncher",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/The-Cruncher.ogg",
+      "_id": "ysTyIHI4jjHl3z6Z",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.ysTyIHI4jjHl3z6Z"
+    },
+    {
+      "name": "Think Again",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/Think-Again.ogg",
+      "_id": "N1cM2HXjnklEVETd",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.N1cM2HXjnklEVETd"
+    },
+    {
+      "name": "Till The End (instrumental)",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/combat/Till-the-End-(Instrumental).ogg",
+      "_id": "nkC9sz0X1VxPTeBi",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!jl7f8v7rPnQWnX2J.nkC9sz0X1VxPTeBi"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 528,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d3be019b1c0d4fc4608968f6630758993cbc37c9"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700493544803,
+    "modifiedTime": 1700493642768,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!jl7f8v7rPnQWnX2J"
+}

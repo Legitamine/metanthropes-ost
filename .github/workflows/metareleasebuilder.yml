@@ -14,7 +14,7 @@ jobs:
               id: id
               uses: notiz-dev/github-action-json-property@release
               with:
-                  path: "module.json"
+                  path: "system.json"
                   prop_path: "id"
             - name: Debug-print Product Name
               run: echo ${{steps.id.outputs.prop}}
@@ -22,22 +22,43 @@ jobs:
               id: version
               uses: notiz-dev/github-action-json-property@release
               with:
-                  path: "module.json"
+                  path: "system.json"
                   prop_path: "version"
             - name: Debug-print Version Number
               run: echo ${{steps.version.outputs.prop}}
             - name: Set Download Link
               uses: jossef/action-set-json-field@v2
               with:
-                  file: "./module.json"
+                  file: "./system.json"
                   field: "download"
                   value: "https://github.com/${{github.repository}}/releases/download/${{steps.version.outputs.prop}}/${{steps.id.outputs.prop}}.zip"
+            - name: Pack Compendiums
+              run: |
+                  echo "Installing Foundry VTT CLI"
+                  npm install -g @foundryvtt/foundryvtt-cli
+                  echo "Contents of system/system"
+                  dir /home/runner/work/${{steps.id.outputs.prop}}/${{steps.id.outputs.prop}}
+                  echo "Create Data directory"
+                  mkdir -p /home/runner/work/${{steps.id.outputs.prop}}/Data
+                  echo "Contents of Data directory"
+                  dir /home/runner/work/${{steps.id.outputs.prop}}/Data
+                  echo "Configuring dataPath"
+                  fvtt configure set dataPath "/home/runner/work/${{steps.id.outputs.prop}}/Data"
+                  echo "Configure workon ${{steps.id.outputs.prop}} as a Module"
+                  fvtt package workon "${{steps.id.outputs.prop}}" --type "Module"
+                  echo "Packaging music"
+                  fvtt package pack -n "music" --in ./src/packs/music --out ./packs
+                  echo "Packaging sound-effects"
+                  fvtt package pack -n "sound-effects" --in ./src/packs/sound-effects --out ./packs
+                  echo "Contents of Data directory post packaging"
+                  dir /home/runner/work/${{steps.id.outputs.prop}}/Data
+                  echo "Finished packaging Compendiums"
             - name: Zip the compiled files
               uses: thedoctor0/zip-release@0.7.1
               with:
                   type: "zip"
                   filename: "${{steps.id.outputs.prop}}.zip" # I need to make the name to match the release name / version name of the build --- oooor just name it metanthropes.zip and be done with it
-                  exclusions: "*.git* /*node_modules/* /*.vscode/* .npmignore .nvmrc gulpfile.js package-lock.json package.json /scss/* /sass/*"
+                  exclusions: "*.git* /*node_modules/* /*.vscode/* .npmignore .nvmrc gulpfile.js package-lock.json package.json /src/* /scss/* /sass/*"
             - name: Create GitHub Release
               uses: softprops/action-gh-release@v1
               with:

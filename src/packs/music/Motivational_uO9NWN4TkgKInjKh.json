@@ -1,0 +1,113 @@
+{
+  "folder": "j1ryQYHhQsIrXF8I",
+  "name": "Motivational",
+  "_id": "uO9NWN4TkgKInjKh",
+  "sounds": [
+    {
+      "name": "Danger Room",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/motivational/Danger-Room.ogg",
+      "_id": "iw9dSvR5pvOqOLu7",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uO9NWN4TkgKInjKh.iw9dSvR5pvOqOLu7"
+    },
+    {
+      "name": "Fortress",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/motivational/Fortress.ogg",
+      "_id": "JgCXe74slFUIuOMU",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uO9NWN4TkgKInjKh.JgCXe74slFUIuOMU"
+    },
+    {
+      "name": "Kingdom Of Heaven",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/motivational/Kingdom-Of-Heaven.ogg",
+      "_id": "9Ismb3UJ437Wf3gX",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uO9NWN4TkgKInjKh.9Ismb3UJ437Wf3gX"
+    },
+    {
+      "name": "Knowing",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/motivational/Knowing.ogg",
+      "_id": "ZWrf24Vs6Uhg5524",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uO9NWN4TkgKInjKh.ZWrf24Vs6Uhg5524"
+    },
+    {
+      "name": "Message From Afar",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/motivational/Message-From-Afar.ogg",
+      "_id": "4EpCaaB6lEjNJp7g",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uO9NWN4TkgKInjKh.4EpCaaB6lEjNJp7g"
+    },
+    {
+      "name": "Silent Bleak Night Instrumental",
+      "path": "modules/metanthropes-ost/audio/music/roleplay-chill/motivational/Silent-Bleak-Night-Instrumental.ogg",
+      "_id": "hmJy9Sg1uYgbjD94",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uO9NWN4TkgKInjKh.hmJy9Sg1uYgbjD94"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 636,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cdbab7df111bd98270e037fb3ad331248af34842"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700496028817,
+    "modifiedTime": 1700496039756,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!uO9NWN4TkgKInjKh"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Atmosphere & Feels",
+  "sorting": "a",
+  "folder": null,
+  "type": "Playlist",
+  "_id": "lSyfnuFQH050mYL2",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "df-qol": {
+      "colour": ""
+    },
+    "scene-packer": {
+      "hash": "c6dd50b2dcfb961205d3db1888d4375e52b5b5bf"
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494671892,
+    "modifiedTime": 1700494671892,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "_key": "!folders!lSyfnuFQH050mYL2"
+}

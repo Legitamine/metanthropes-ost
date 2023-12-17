@@ -1,0 +1,126 @@
+{
+  "folder": "tqrxDyYE1QLQc5sx",
+  "name": "Urban",
+  "_id": "84KafWbv6tPuudwE",
+  "sounds": [
+    {
+      "name": "A Dark Conspiracy",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/urban/A-Dark-Conspiracy.ogg",
+      "_id": "ww5DaXpUks2jEXbI",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!84KafWbv6tPuudwE.ww5DaXpUks2jEXbI"
+    },
+    {
+      "name": "Ambient Vixen",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/urban/Ambient-Vixen.ogg",
+      "_id": "cI44EovxhJ8BfOj2",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!84KafWbv6tPuudwE.cI44EovxhJ8BfOj2"
+    },
+    {
+      "name": "Cloudy Monday (instrumental)",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/urban/Cloudy-Monday-(Instrumental).ogg",
+      "_id": "CBMPEmoDdAxQhSFj",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!84KafWbv6tPuudwE.CBMPEmoDdAxQhSFj"
+    },
+    {
+      "name": "Im The Man",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/urban/Im-The-Man.ogg",
+      "_id": "I3qg0hkEztneABH4",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!84KafWbv6tPuudwE.I3qg0hkEztneABH4"
+    },
+    {
+      "name": "Side Hustle",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/urban/Side-Hustle.ogg",
+      "_id": "ibUhyT48Kjduhz77",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!84KafWbv6tPuudwE.ibUhyT48Kjduhz77"
+    },
+    {
+      "name": "Velvet Skies",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/urban/Velvet-Skies.ogg",
+      "_id": "DxvJOJwhl5E2D7le",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!84KafWbv6tPuudwE.DxvJOJwhl5E2D7le"
+    },
+    {
+      "name": "Winner",
+      "path": "modules/metanthropes-ost/audio/music/action-adventure/urban/Winner.ogg",
+      "_id": "0FADPssDjJV227hr",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!84KafWbv6tPuudwE.0FADPssDjJV227hr"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 473,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "8c499f4176fec24ec36e87501e469c8e38c1bf03"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494505156,
+    "modifiedTime": 1700494522945,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!84KafWbv6tPuudwE"
+}

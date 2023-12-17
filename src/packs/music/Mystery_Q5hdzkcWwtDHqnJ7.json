@@ -1,0 +1,152 @@
+{
+  "folder": "lSyfnuFQH050mYL2",
+  "name": "Mystery",
+  "_id": "Q5hdzkcWwtDHqnJ7",
+  "sounds": [
+    {
+      "name": "A Dangerous Scheme",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/A-Dangerous-Scheme.ogg",
+      "_id": "1Iia4VuLgHz1xxSr",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.1Iia4VuLgHz1xxSr"
+    },
+    {
+      "name": "Cold Tremors",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/Cold-Tremors.ogg",
+      "_id": "aTNy9jzPfVHNRCM4",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.aTNy9jzPfVHNRCM4"
+    },
+    {
+      "name": "Dark Room",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/Dark-Room.ogg",
+      "_id": "3d2MvDZQSOej0CfY",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.3d2MvDZQSOej0CfY"
+    },
+    {
+      "name": "Dont Go There",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/Dont-Go-There.ogg",
+      "_id": "5zjmBbw7qEpSwcfA",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.5zjmBbw7qEpSwcfA"
+    },
+    {
+      "name": "Mallets Of Mystery",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/Mallets-Of-Mystery.ogg",
+      "_id": "3kCHGA1RlY7KjJYK",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.3kCHGA1RlY7KjJYK"
+    },
+    {
+      "name": "Mastermind",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/Mastermind.ogg",
+      "_id": "I8A64YZrLqYpyaU8",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.I8A64YZrLqYpyaU8"
+    },
+    {
+      "name": "The Horror Within",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/The-Horror-Within.ogg",
+      "_id": "qc6fWQN5R2lSJg11",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.qc6fWQN5R2lSJg11"
+    },
+    {
+      "name": "The Undercurrent",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/The-Undercurrent.ogg",
+      "_id": "5rxboQ2wAsRalqxT",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.5rxboQ2wAsRalqxT"
+    },
+    {
+      "name": "To The Strong",
+      "path": "modules/metanthropes-ost/audio/music/atmosphere-feels/mystery/To-The-Strong.ogg",
+      "_id": "3XXzySjyvr1LjXcq",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Q5hdzkcWwtDHqnJ7.3XXzySjyvr1LjXcq"
+    }
+  ],
+  "mode": 1,
+  "playing": false,
+  "fade": 2000,
+  "sorting": "a",
+  "seed": 78,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "5zNOC79Hz3jZdfNj": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d0519d273582d76a23ab93fd62cc5a60b810d780"
+    },
+    "monks-sound-enhancements": {
+      "hide-playlist": false
+    }
+  },
+  "_stats": {
+    "systemId": "metanthropes-system",
+    "systemVersion": "0.8.80",
+    "coreVersion": "11.315",
+    "createdTime": 1700494888641,
+    "modifiedTime": 1700494903425,
+    "lastModifiedBy": "5zNOC79Hz3jZdfNj"
+  },
+  "description": "",
+  "_key": "!playlists!Q5hdzkcWwtDHqnJ7"
+}
