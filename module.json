@@ -1,7 +1,7 @@
 {
 	"id": "metanthropes-ost",
 	"title": "Metanthropes Original Soundtrack",
-	"version": "0.8.3",
+	"version": "0.9.002",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"
@@ -9,7 +9,7 @@
 	"relationships": {
 		"systems": [
 			{
-				"id": "metanthropes-system",
+				"id": "metanthropes",
 				"type": "system",
 				"compatibility": {}
 			}
@@ -67,6 +67,5 @@
 			"system": "metanthropes-system",
 			"flags": {}
 		}
-	],
-	"download": "https://github.com/Legitamine/metanthropes-ost/releases/download/0.8.1/metanthropes-ost.zip"
+	]
 }
