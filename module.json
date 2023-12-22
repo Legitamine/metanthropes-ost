@@ -1,7 +1,7 @@
 {
 	"id": "metanthropes-ost",
 	"title": "Metanthropes Original Soundtrack",
-	"version": "0.9.003",
+	"version": "0.9.004",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"
@@ -52,7 +52,7 @@
 				"PLAYER": "NONE",
 				"ASSISTANT": "OWNER"
 			},
-			"system": "metanthropes-system",
+			"system": "metanthropes",
 			"flags": {}
 		},
 		{
@@ -64,7 +64,7 @@
 				"PLAYER": "NONE",
 				"ASSISTANT": "OWNER"
 			},
-			"system": "metanthropes-system",
+			"system": "metanthropes",
 			"flags": {}
 		}
 	]
